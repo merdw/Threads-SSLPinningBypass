@@ -1,5 +1,5 @@
 # Threads-SSLPinningBypass
-Bypass Instagram new app Threads App SSL pinning
+Bypass Instagram new app [Threads](https://threads.net/) App SSL pinning
 
 No need frida, jailbreaked or rooted device 
 
