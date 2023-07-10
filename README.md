@@ -7,6 +7,8 @@ I am selling threads app ssl pinning bypassed IPA but if you need APK I can make
 
 Latest version: `v289.0`
 
+You need another app ssl pinning bypass or anything contact me.
+
 contact:
 telegram: @derdomerdo
 
