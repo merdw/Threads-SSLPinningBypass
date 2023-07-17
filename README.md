@@ -5,7 +5,7 @@ No need frida, jailbreaked or rooted device
 
 I am selling threads app ssl pinning bypassed IPA but if you need APK I can make it too.
 
-Latest version: `v289.0`
+Latest version: `v291.0`
 
 You need another app ssl pinning bypass or anything contact me.
 
